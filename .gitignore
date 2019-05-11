@@ -3,4 +3,10 @@ vendor/
 wp/*.php
 wp/wp-includes
 wp/wp-admin
+wp/wp-content/uploads
+wp/wp-content/plugins
+wp/wp-content/themes/twentysixteen
+wp/wp-content/themes/twentyseventeen
+wp/wp-content/themes/twentynineteen
+
 .htaccess
