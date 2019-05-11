@@ -1,5 +1,9 @@
 {
     "require": {
-      "twig/twig": "1.18.0"
+      "php": ">=5.4",
+      "johnpbloch/wordpress": "5.2"
+    },
+    "extra": {
+      "wordpress-install-dir": "wp"
     }
   }

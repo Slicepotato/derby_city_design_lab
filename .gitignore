@@ -1,1 +1,6 @@
 vendor/
+
+wp/*.php
+wp/wp-includes
+wp/wp-admin
+wp/.htaccess
